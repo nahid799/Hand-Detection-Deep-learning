@@ -1,4 +1,4 @@
-@Author: Syed Masum Billah (sbillah@cs.stonybrook.edu) & Md Nahid Hossain (mdnhossain@cs.stonybrook.edu)
+@Author: Md Nahid Hossain (mdnhossain@cs.stonybrook.edu) & Syed Masum Billah (sbillah@cs.stonybrook.edu)
 @Date: 12-15-2014
 @Version 1.0.
 
